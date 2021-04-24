@@ -5,5 +5,5 @@ module.exports = {
   devServer: {
     https: true
   },
-  publicPath: ‘/SonetosFrontend/’
+  publicPath: '/SonetosFrontend/'
 }
